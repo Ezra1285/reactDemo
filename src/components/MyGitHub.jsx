@@ -1,8 +1,10 @@
 const MyGitHub = () => {
     return (
         <p>
-            Link to GitHub: <a href="https://github.com/dldf/reactdemo"> https://github.com/dldf/reactdemo</a>
+            Test
         </p>
+//Link to GitHub: <a href="https://github.com/Ezra1285/reactDemo"> https://github.com/Ezra1285/reactDemo</a>
+
     )
 }
 export default MyGitHub;
