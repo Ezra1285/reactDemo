@@ -35,17 +35,6 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  },
-  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
-  "main": "index.js",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Ezra1285/reactDemo.git"
-  },
-  "author": "Ezra",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Ezra1285/reactDemo/issues"
-  },
-  "homepage": "https://github.com/Ezra1285/reactDemo#readme"
+  }
+ 
 }
